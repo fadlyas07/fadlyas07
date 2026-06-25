@@ -42,8 +42,6 @@ For me, technology is not only about writing code. It is also about curiosity, c
 Now   →  Still experimenting, learning, and building
 Next  →  Creating something useful for the community
 
----
-
 <p align="center">
   <i>
     23 years of living, learning, breaking things, and building them better.
