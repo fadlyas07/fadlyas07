@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+todayterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
 <div align="center">
 
@@ -47,6 +47,6 @@ To me, technology is more than writing code. It is about curiosity, collaboratio
 
 *23 years of living, learning, breaking things, and building them better.*
 
-**“Every bug fixed today builds a better version of tomorrow.”**
+**“Every bug fixed today, builds a better version of tomorrow.”**
 
 </div>
