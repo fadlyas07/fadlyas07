@@ -1,26 +1,54 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
+<h1 align="center">Hi there, I'm Fadly 👋</h1>
+
+<h3 align="center">
+  Android & Linux Enthusiast · Open Source Explorer · Lifelong Learner
+</h3>
+
 <p align="center">
-<h2 align="center">👋 Hey there, I’m Fadly (aka fadlyas)</h2>
-<h3 align="center">Android & Linux Enthusiast | Open Source Dreamer | Curious Learner</h3>
-<h4 align="center">你好! Hello! Halo! こんにちは! 안녕하세요! Привет! ¡Hola! 🌍</h4>
+  你好 · Hello · Halo · こんにちは · 안녕하세요 · Привет · ¡Hola! 🌏
 </p>
 
-## About me
-I’m from Indonesia 🇮🇩. Right now, I’m pursuing my degree in Communication Science 🎓 while also having fun exploring the world of Android, Linux, and Open Source.
+---
 
-My journey started back in 2019, when I began tinkering with Linux Kernel for Android devices. Since then, I’ve been hooked—debugging, experimenting, and sharing knowledge with the community.
+## 👨‍💻 A Little About Me
 
-At the same time, my studies in communication have sharpened how I see the world: not just building things, but also learning how to share ideas, connect with people, and tell stories in a meaningful way.
+I'm **Fadly**, a 23-year-old technology enthusiast from Indonesia 🇮🇩.
 
-## What I’m up to these days
-- Occasionally contributing to Open Source projects.
-- Wandering around GitHub, exploring random repos.
-- Always learning something new.
+My journey began in **2019**, when I started experimenting with Linux kernels for Android devices. What began as simple curiosity soon became something I genuinely enjoy—exploring how systems work, solving unexpected problems, and learning through every experiment.
 
-<p>
-  <em>
-    It's been 22 years since I came to this beautiful world.<br>
-    “Every bug fixed today is a better version of me tomorrow.” — ChatGPT.
-  </em>
+Most of my time is spent tinkering with Android and Linux, browsing interesting repositories, and discovering new ideas from the open-source community.
+
+For me, technology is not only about writing code. It is also about curiosity, collaboration, and turning small ideas into something meaningful.
+
+---
+
+## 🚀 What I'm Currently Doing
+
+- 🐧 Exploring Linux and Android development
+- ⚙️ Experimenting with Android kernels
+- 🌱 Learning through open-source projects
+- 🔍 Discovering interesting repositories on GitHub
+- 🛠️ Fixing bugs—and occasionally creating new ones
+- 📚 Continuously learning and improving
+
+---
+
+## 🧭 My Journey
+
+```text
+2019  →  Started exploring Android kernel development
+Now   →  Still experimenting, learning, and building
+Next  →  Creating something useful for the community
+
+---
+
+<p align="center">
+  <i>
+    23 years of living, learning, breaking things, and building them better.
+  </i>
+</p><p align="center">
+  <b>“Every bug fixed today builds a better version of tomorrow.”</b>
 </p>
+```
