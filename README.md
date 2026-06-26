@@ -14,7 +14,7 @@
 
 ## 👨‍💻 A Little About Me
 
-I'm **Fadly**, a 23-year-old technology enthusiast from Indonesia 🇮🇩.
+A 23-year-old technology enthusiast from Indonesia 🇮🇩.
 
 My journey began in **2019**, when curiosity led me to explore Linux kernels for Android devices. Since then, I have enjoyed learning how systems work, solving unexpected problems, and improving things one experiment at a time.
 
